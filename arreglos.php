@@ -18,6 +18,7 @@ echo "<br>Proyecto de prioridad alta<br>";
 $contador = 0 ;
 
 
+// siempre se ejecuta primero
 foreach ($proyectos as $proyecto) {
     if ($proyecto["prioridad"] == "Alta") {
         echo $proyecto["nombre"]. " | " . $proyecto["encargado"]. " | " . $proyecto["prioridad"] . "<br>";

@@ -17,10 +17,10 @@ En este repositorio guardo los ejercicios y prácticas de cada lección. Cada co
 
 - [x] **Etapa 0:** Cómo funciona la web (cliente, servidor, HTTP, GET y POST)
 - [x] **Etapa 1:** HTML básico y formularios
-- [ ] **Etapa 2:** Fundamentos de programación con PHP
+- [x] **Etapa 2:** Fundamentos de programación con PHP
   - [x] Variables, tipos de datos y concatenación
   - [x] Condiciones (`if`, `else`, `elseif`) y validación de formularios
-  - [ ] Arreglos y ciclos (`foreach`, `while`)
+  - [x] Arreglos y ciclos (`foreach`, `while`)
   - [ ] Funciones
 - [ ] **Etapa 3:** SQL (`SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN`)
 - [ ] **Etapa 4:** PHP + SQL Server con PDO (consultas preparadas)
