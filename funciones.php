@@ -3,7 +3,7 @@ function evaluarNota(float $nota): string {
     if ($nota < 1.0 || $nota > 7.0) {
         return "Nota Inválida";
     } elseif ($nota >= 6.0) {
-        return "Exelente ";
+        return "Excelente ";
     } elseif ($nota >= 4.0) {
         return "Aprobado";
     } else {

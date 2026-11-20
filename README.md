@@ -21,7 +21,7 @@ En este repositorio guardo los ejercicios y prácticas de cada lección. Cada co
   - [x] Variables, tipos de datos y concatenación
   - [x] Condiciones (`if`, `else`, `elseif`) y validación de formularios
   - [x] Arreglos y ciclos (`foreach`, `while`)
-  - [ ] Funciones
+  - [ ] Funciones (en progreso)
 - [ ] **Etapa 3:** SQL (`SELECT`, `INSERT`, `UPDATE`, `DELETE`, `JOIN`)
 - [ ] **Etapa 4:** PHP + SQL Server con PDO (consultas preparadas)
 - [ ] **Etapa 5:** JavaScript
@@ -38,6 +38,9 @@ En este repositorio guardo los ejercicios y prácticas de cada lección. Cada co
 | `saludo.php` | Recibe los datos del formulario, los valida y muestra un saludo |
 | `variables.php` | Variables, tipos de datos, operaciones y concatenación |
 | `condiciones.php` | Condiciones `if` / `elseif` / `else` con operadores lógicos |
+| `arreglos.php` | Arreglos asociativos, `foreach`, filtro con contador y salida en JSON |
+| `ciclos.php` | Ciclo `while`, simulación de `fetch()` con `array_shift` e inicialización del arreglo de respuesta |
+| `funciones.php` | Funciones propias con parámetros tipados y `return` (`calcularTotal`, `evaluarNota`) |
 
 ## Cómo ejecutarlo
 
